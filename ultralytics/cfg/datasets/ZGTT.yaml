@@ -1,0 +1,5 @@
+train: dataset/train/visible/images
+val: dataset/val/visible/images
+
+nc: 1
+names: ["target"]

@@ -193,6 +193,8 @@ The script only needs the visible image directory as input. The paired infrared 
 
 The dataset used in this project was provided by a China Tower project. Due to project confidentiality requirements, the full dataset cannot be publicly released. This repository only provides the code and the three demonstration images used in the paper. Please use other datasets for training and validation.
 
+For long-term accessibility and citation, this repository has been archived on Zenodo: https://doi.org/10.5281/zenodo.19941134
+
 ## Citation
 
 If this code is useful for your research, please cite the related paper after it is published.
